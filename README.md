@@ -54,22 +54,4 @@ This project focuses on optimizing the pathfinding for trucks using AI-based sea
 2. **GitHub**: GitHub can host your images directly in your repository if you prefer to keep everything in one place.
 3. **Other Public Image Hosts**: You can also upload images to other platforms like **Dropbox**, **Google Drive**, or **Flickr** and get shareable links.
 
----
-
-### Example Markdown with Online Image Integration:
-
-```markdown
-# **Optimization of AI Navigation**
-
-## **Project Overview**
-This project focuses on optimizing the pathfinding for trucks using AI-based search algorithms. The goal is to improve the efficiency of truck navigation by leveraging multiple algorithms.
-
-![AI Search Algorithms](https://i.imgur.com/owZbhwm.png)
-
-## **Features**
-- **AI Search Algorithms**
-- **Truck Path Optimization**
-- **App Integration**
-
-![App Interface](https://i.imgur.com/pn9xkNY.png)
-```
+--
