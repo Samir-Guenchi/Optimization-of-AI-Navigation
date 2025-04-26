@@ -46,12 +46,4 @@ This project focuses on optimizing the pathfinding for trucks using AI-based sea
 - **App Development**: Mobile app developed using [insert technology, e.g., Flutter, React Native, etc.] for real-time path feedback and optimization suggestions.
 - **Data Handling**: Utilizes real-time data for traffic, road conditions, and truck performance to adjust routes dynamically.
 
----
 
-### **Where to Host Your Images**
-
-1. **Imgur**: You can use platforms like Imgur to upload images and then link to them directly, as I've done above.
-2. **GitHub**: GitHub can host your images directly in your repository if you prefer to keep everything in one place.
-3. **Other Public Image Hosts**: You can also upload images to other platforms like **Dropbox**, **Google Drive**, or **Flickr** and get shareable links.
-
---
